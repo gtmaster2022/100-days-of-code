@@ -13,3 +13,12 @@
 **Today's Progress**: Finished up my first Frontendmentor.io project. However, didn't pick up a second project on account of work and running a fever. Will publish and continue tomorrow.
 
 **Thoughts:** SICK DAY.
+
+### Day 3: January 12, 2022 
+
+**Today's Progress**: Started a new Frontendmentor.io project. Finished pretty quickly.
+
+**Thoughts:** I was surprised how easily everything came together. Time to start finding more javascript heavy projects.
+
+**Link to work:** [Single price grid challenge](http://www.example.com)
+
