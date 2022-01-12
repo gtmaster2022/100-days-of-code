@@ -1,0 +1,111 @@
+/*font-family: 'Big Shoulders Display', cursive;
+font-family: 'Lexend Deca', sans-serif;*/
+
+:root {
+    --orange: hsl(31, 77%, 52%);
+    --cyan: hsl(184, 100%, 22%);
+    --dark-cyan: hsl(179, 100%, 13%);
+    --white: hsla(0, 0%, 100%, 0.75); /*paragraphs*/   --light-gray: hsl(0, 0%, 95%); /*background, headings, buttons*/
+  }
+  
+  body {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    background: var(--light-gray);
+    color: var(--white);
+  }
+  
+  h2 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: var(--light-gray);
+  }
+
+  p {
+    line-height: 1.8;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    width: 75%;
+    margin: 10em auto;
+  }
+  
+  .block-1 {  
+    background: var(--orange);
+    border-radius: 5px 5px 0px 0px;
+    padding: 2rem;
+  }
+  
+  .block-2 {
+    background: var(--cyan);
+    padding: 2rem;
+  }
+  
+  .block-3 {
+    background: var(--dark-cyan);
+    border-radius: 0px 0px 5px 5px;
+    padding: 2rem;
+  }
+  
+  .btn {
+    background-color: var(--light-gray);
+    border: none;
+    border-radius: 30px;
+    padding: 12px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;  
+  }
+
+  .btn:hover {
+    background-color: rgba(0,0,0,0);
+    color: var(--light-gray);
+    border: 2px solid var(--light-gray);
+  }
+  
+  .block-1-btn {
+    color: var(--orange);
+  }
+  
+  .block-2-btn {
+    color: var(--cyan);
+  }
+  
+  .block-3-btn {
+    color: var(--dark-cyan);
+  }
+  
+  .attribution { 
+    font-size: 11px; 
+    text-align: center; 
+  }
+  
+  .attribution a { 
+    color: hsl(228, 45%, 44%); 
+  }
+  
+  @media (min-width: 400px) {
+    .container {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    p {
+      margin-bottom: 75px;
+    }
+    .block-1, .block-2, .block-3 {
+      padding: 3em;
+    }
+    .block-1 {
+      border-radius: 5px 0px 0px 5px;
+    }
+    .block-3 {
+      border-radius: 0px 5px 5px 0px;
+    }
+  }
+  
+  
