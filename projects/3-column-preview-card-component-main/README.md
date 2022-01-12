@@ -53,13 +53,13 @@ I'm getting more comfortable with CSS grid, but I am still struggling with getti
 ```css
   @media (min-width: 375px) {
     .container {
-      grid-template-columns: repeat(3,1fr;
+      grid-template-columns: 1fr 1fr 1fr;
     }
     .block-1 {
-      border-radius: 5px 0px 0px 5px;
+      border-radius: 10px 0px 0px 10px;
     }
     .block-3 {
-      border-radius: 0px 5px 5px 0px;
+      border-radius: 0px 10px 10px 0px;
     }
   }
 ```
@@ -73,7 +73,7 @@ I would like to get better at using flexbox, and use more responsive sizing for 
 
 ## Author
 
-- Frontend Mentor - [@gtmaster2022](https://www.frontendmentor.io/profile/gtmaster2022)
-- Github - [@gtmaster2022](https://github.com/gtmaster2022)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
