@@ -16,7 +16,7 @@
 
 ### Day 3: January 12, 2022 
 
-**Today's Progress**: Started a new Frontendmentor.io project. Finished pretty quickly.
+**Today's Progress**: Started a new Frontendmentor.io project. Finished pretty quicky, so I took some time to play around with pure CSS images. My first being a [Koala Bear](https://codepen.io/gtmaster2022/pen/Jjrezxw).
 
 **Thoughts:** I was surprised how easily everything came together. Time to start finding more javascript heavy projects.
 
