@@ -22,3 +22,11 @@
 
 **Link to work:** [Single price grid challenge](http://www.example.com)
 
+### Day 4: January 13, 2022 
+
+**Today's Progress**: Started a new Frontendmentor.io project, with some JS. This one is a little trickier as 1) it contains an accordian FAQ (hi JS), and 2) some of the image floats outside of the container. (Yay to my sudden interest in pure CSS images/graphics). 
+
+**Thoughts:** So far, the setup is going pretty well, and I have an idea of how the JS is going to shake out, but we'll see how it goes when I pick it back up tomorrow.
+
+**Link to work:** [FAQ-accordian](http://www.example.com)
+
