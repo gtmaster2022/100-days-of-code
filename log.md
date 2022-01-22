@@ -6,13 +6,17 @@
 
 **Thoughts:** Learned some new concepts, such as data attributes, but I realized that I need to up my knowledge of Javascript before I dive deeper. As such, I'm studying through freeCodeCamp, and will be starting with some more basic HTML/CSS projects then return to the Javascript Drum Kit. My intention is not to copy + paste, but to make it my own.
 
+**Tools Used**: HTML, CSS, Javascript, forEach
+
 **Link to work:** [Javascript drum kit](http://www.example.com)
 
 ### Day 2: 
 
-**Today's Progress**: Started reviewing freeCodeCamp's Responsive Web Design Cert to go over basic HTML and CSS, and then started working on the first project, a responsive tribute page to Bessie Coleman. I got most of the layout done, but I want to add in a decent timeline, so I'll finish working on that tomorrow. 
+**Today's Progress**: Reviewed freeCodeCamp's Responsive Web Design Cert to go over basic HTML and CSS, and then started working on the first project, a responsive tribute page to Bessie Coleman. It took a few hours, because once I started, I couldn't quit until the page was done, and I'm proud of it in spite of, or maybe because of, it's simplicity. 
 
-**Thoughts:** There a little CSS nuggets that I did not know previously such as animations, and while I'm sufficient with CSS grid, I have yet to do anything in Flexbox so the 5 projects tied to this "certification" will give me a chance to utilize flexbox, which is how I learn. For the first project, however, the layout is extremely simple, so I build it on codepen, and played around with a parallax scrolling affect.
+**Thoughts:** There a little CSS nuggets that I did not know previously such as animations, and while I'm sufficient with CSS grid, I have yet to do anything in Flexbox so the 5 projects tied to this "certification" will give me a chance to utilize flexbox, which is how I learn. For the first project, however, the layout is extremely simple, so as recommended, I coded it in codepen, and played around with the parallax scrolling affect.
+
+**Tools Used**: HTML, CSS, responsive design, responsive image, before/after selectors
 
 **Link to work:** [Bessie Coleman Tribute Page](https://codepen.io/gtmaster2022/pen/bGoXVvY)
 
