@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 19, 2022 
+### Day 1: January 21, 2022 
 
 **Today's Progress**: Restarting this as I got off track with the move to a new city. As such, I'm going to do Javascript30's 30 day challenge, starting with the Javascript Drum Kit. I also reused an old portfolio site idea to display my 100 day coding projects, so I spent about an hour or so cleaning it up and adding my new projects.
 
@@ -10,7 +10,7 @@
 
 **Link to work:** [Javascript drum kit](http://www.example.com)
 
-### Day 2: 
+### Day 2: January 22, 2022
 
 **Today's Progress**: Reviewed freeCodeCamp's Responsive Web Design Cert to go over basic HTML and CSS, and then started working on the first project, a responsive tribute page to Bessie Coleman. It took a few hours, because once I started, I couldn't quit until the page was done, and I'm proud of it in spite of, or maybe because of, it's simplicity. 
 
@@ -18,15 +18,15 @@
 
 **Tools Used**: HTML, CSS, responsive design, responsive image, before/after selectors
 
-**Link to work:** [Bessie Coleman Tribute Page](https://codepen.io/gtmaster2022/pen/bGoXVvY)
+**Link to work:** [Bessie Coleman Tribute Page](https://codepen.io/gtmaster2022/full/bGoXVvY)
 
-### Day 3:
+### Day 3: January 23, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Started the second project from freeCodeCamp's Responsive Web Design Cert - the goal to create a responsive web form. So, I created one for Aesop's Zoo, and got all of the tests passing. Tomorrow, I will just clean up the layout a little as I feel the spacing is off somewhat, especially after grouping the checkboxes and radio buttons in fieldsets. 
 
-**Thoughts:** 
+**Thoughts:** Not too bad. Thought about using flex for the layout, but pretty much stuck to block/inline displays. 
 
-**Link to work:** [Project name](http://www.example.com)
+**Link to work:** [Aesop's Zoo Survey Form](https://codepen.io/gtmaster2022/full/JjrgvVJ)
 
 ### Day 4: 
 
