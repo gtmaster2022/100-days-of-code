@@ -28,12 +28,12 @@
 
 **Link to work:** [Aesop's Zoo Survey Form](https://codepen.io/gtmaster2022/full/JjrgvVJ)
 
-### Day 4: 
+### Day 4: January 25, 2022
 
-**Today's Progress**:
+**Today's Progress**: Took the day off yesterday, and today I am going through a JavaScript basics tutorial whilst building a Tetris game via Ania Kubow/freeCodeCamp. 
 
-**Thoughts:** 
+**Thoughts:** I am a little more than halfway through the video but am finding that I'm not understanding how to code the shapes. I think what's throwing me off is the width. It's also late, so I'll be finishing up tomorrow. 
 
-**Link to work:** [Project name](http://www.example.com)
+**Link to work:** [Tetris](https://codepen.io/gtmaster2022/full/ZEaEzJW)
 
 
