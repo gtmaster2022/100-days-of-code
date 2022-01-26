@@ -36,4 +36,12 @@
 
 **Link to work:** [Tetris](https://codepen.io/gtmaster2022/full/ZEaEzJW)
 
+### Day 5: January 26, 2022
+
+**Today's Progress**: I deviated from the Tetris game to work on a simple calculator, but following a Youtube video where classes were used, I realized that I didn't know enough Javascript to convert the class into a function using prototype's and this. So, that turned into me using Codecademy, which ended in a Rock, Paper, Scissors game project that I am now turning into a cute mini game. 
+
+**Thoughts:** So far, it's looking good. However, when I console log my determineWinner function, I'm finding that my Tied statement is being returned even when the Computer's guess and the User's guess are not equal. According to Codecademy, my code is correct, so I had trouble figure out why that was. However, when I directly added the user's guess, and computer's guess rather than returning it from my getComputerGuess function, it worked as expected. Once I created the final function to pass all functions into a variable, and then passing that into the determineWinnder function, everything worked as expected.
+
+**Link to work:** [Rock, Paper, Scissors](https://codepen.io/gtmaster2022/full/KKyKGQP)
+
 
