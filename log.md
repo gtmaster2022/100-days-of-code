@@ -44,4 +44,12 @@
 
 **Link to work:** [Rock, Paper, Scissors](https://codepen.io/gtmaster2022/full/KKyKGQP)
 
+### Day 5: January 27, 2022
+
+**Today's Progress**: Spent most of the day learning about higher order functions, and playing with arrays. I also tinkered with the calculator project a little, which I should be able to finish once I finish reading up on iterators. 
+
+**Thoughts:** My goal is to code without following along with the video, except where I'm stuck.
+
+**Link to work:** [Calculator](https://codepen.io/gtmaster2022/full/MWOWWVQ)
+
 
