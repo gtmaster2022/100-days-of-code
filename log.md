@@ -52,4 +52,13 @@
 
 **Link to work:** [Calculator](https://codepen.io/gtmaster2022/full/MWOWWVQ)
 
+### Day 6: January 28, 2022
+
+**Today's Progress**: Finished my first challenge project for Javascript in CodeAcademy. The HTML and CSS, and advanced Javascript, however, belongs to Codeacademy. I just added a couple of functions which were pretty straight forward, and didn't include arrays or iterators, which I studied today. However, once I complete the chapter on Objects, I'll be ready for the next challenge. However, I'll be in San Francisco for the next two days, so I might not be able to complete any coding challenges for those days, we'll see.
+
+**Thoughts**: Pretty simple challenge compared to what I learned today about arrays. In fact, I started overthinking how to tackle some of the functions. I am curious to see what the next challenge, however, will be like, which involves arrays, iterators and objects.
+
+**Link to work:** [Number Guesser](https://codepen.io/gtmaster2022/pen/GROJvPj)
+
+
 
