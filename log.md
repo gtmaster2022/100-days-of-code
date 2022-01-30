@@ -60,5 +60,11 @@
 
 **Link to work:** [Number Guesser](https://codepen.io/gtmaster2022/pen/GROJvPj)
 
+### Day 7: January 29, 2022
+
+**Today's Progress**: Got home from SF, and I'm wiped, but I spent an hour or so working on a couple of Codecademy intermediate code challenges. Not sure they're worth putting on codepen since it's all console log stuff, but it's something.
+
+**Thoughts**: Learned a few more built in JS functions, such as sort and reverse. 
+
 
 
