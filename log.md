@@ -66,5 +66,13 @@
 
 **Thoughts**: Learned a few more built in JS functions, such as sort and reverse. 
 
+### Day 8: January 31, 2022
+
+**Today's Progress**: Decided to do a simple color flipper challenge with Javascript, purely from scratch and without a walkthrough. Quite simple, but then I decided to challenge myself a bit by adding a filter to either display/generate the colors in RGB or Hex. Got most of the way there, but am having trouble getting the generator to use Hex when that radio button is checked. For some reason, that event never fires. 
+
+**Thoughts**: Pretty sure I spent most of the two hours trying to resolve the Hex radio button to no avail. Now it's midnight, so I will get some sleep and try aggain tomorrow. Mostly there though!
+
+**Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
+
 
 
