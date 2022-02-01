@@ -44,7 +44,7 @@
 
 **Link to work:** [Rock, Paper, Scissors](https://codepen.io/gtmaster2022/full/KKyKGQP)
 
-### Day 5: January 27, 2022
+### Day 6: January 27, 2022
 
 **Today's Progress**: Spent most of the day learning about higher order functions, and playing with arrays. I also tinkered with the calculator project a little, which I should be able to finish once I finish reading up on iterators. 
 
@@ -52,7 +52,7 @@
 
 **Link to work:** [Calculator](https://codepen.io/gtmaster2022/full/MWOWWVQ)
 
-### Day 6: January 28, 2022
+### Day 7: January 28, 2022
 
 **Today's Progress**: Finished my first challenge project for Javascript in CodeAcademy. The HTML and CSS, and advanced Javascript, however, belongs to Codeacademy. I just added a couple of functions which were pretty straight forward, and didn't include arrays or iterators, which I studied today. However, once I complete the chapter on Objects, I'll be ready for the next challenge. However, I'll be in San Francisco for the next two days, so I might not be able to complete any coding challenges for those days, we'll see.
 
@@ -60,13 +60,13 @@
 
 **Link to work:** [Number Guesser](https://codepen.io/gtmaster2022/pen/GROJvPj)
 
-### Day 7: January 29, 2022
+### Day 8: January 29, 2022
 
 **Today's Progress**: Got home from SF, and I'm wiped, but I spent an hour or so working on a couple of Codecademy intermediate code challenges. Not sure they're worth putting on codepen since it's all console log stuff, but it's something.
 
 **Thoughts**: Learned a few more built in JS functions, such as sort and reverse. 
 
-### Day 8: January 31, 2022
+### Day 9: January 31, 2022
 
 **Today's Progress**: Decided to do a simple color flipper challenge with Javascript, purely from scratch and without a walkthrough. Quite simple, but then I decided to challenge myself a bit by adding a filter to either display/generate the colors in RGB or Hex. Got most of the way there, but am having trouble getting the generator to use Hex when that radio button is checked. For some reason, that event never fires. 
 
@@ -74,7 +74,7 @@
 
 **Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
 
-### Day 8: February 1, 2022
+### Day 10: February 1, 2022
 
 **Today's Progress**: Resolved the issue with the hex function. Turns out that my radio buttons needed to be called using document.getElementById instead of document.querySelector. Then I followed node.dev/how-to-create-animated-toggle-switches-with-just-css-and-implement-a-dark-mode-feature very helpful tutorial to add a switch that toggles between hex and rgb output. 
 
