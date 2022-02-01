@@ -74,5 +74,14 @@
 
 **Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
 
+### Day 8: February 1, 2022
+
+**Today's Progress**: Resolved the issue with the hex function. Turns out that my radio buttons needed to be called using document.getElementById instead of document.querySelector. Then I followed node.dev/how-to-create-animated-toggle-switches-with-just-css-and-implement-a-dark-mode-feature very helpful tutorial to add a switch that toggles between hex and rgb output. 
+
+**Thoughts**: I see lots of code for pure CSS toggle switches, but I really liked Davey's breakdown of what each line of code is doing, because it wasn't making a lot of sense initially. Now I'm 99% happy with how everything turned out. The only issue is that the switch between rgb and hex code is a little janky - you have to click the button one additional time in order to switch over. I also noticed that after a handful of clicks, the switch between both functions stops working.
+
+**Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
+
+
 
 
