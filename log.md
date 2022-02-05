@@ -82,13 +82,13 @@
 
 **Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
 
-### Day 12: February 3, 2022
+### Day 11: February 3, 2022
 
 **Today's Progress**: Been doing code katas on CodeWars for Javascript. I think that I might start implementing this into my routine more to keep my skills sharp, especially as I add more skills back into my repertoire, including C# - a skill I haven't utilized in at least 5 years.
 
 <img width="50%" alt="image" src="https://user-images.githubusercontent.com/60929828/152659814-da836e25-9ca2-422a-95da-353120414f9b.png">
 
-### Day 13: February 4, 2022 
+### Day 12: February 4, 2022 
 
 **Today's Progress**: Another code kata, which are taking me at least an hour if not more. Yesterday when working on a kata to convert RGB to Hex, I forgot that the forEach iterator returns undefined, but I was trying to return an array. Today, when converting a string to camel case, I had 85% of the solution, but what I didn't realize is that map could also take in an index as a parameter. Once I realized that, I was able to get the other 15% immediately.
 
@@ -96,7 +96,11 @@
 
 <img width="50%" alt="image" src="https://user-images.githubusercontent.com/60929828/152659825-41c34b93-5038-45be-9352-13a1c98f7ad0.png">
 
+### Day 13: February 5, 2022 
 
+**Today's Progress**: Today., I decided to do a project from [FreeCodeCamp] (https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper) from scratch. It took me a while to get the transition of the hamburger menu just right, but so far, I'm happy with how it's coming out. I also spent some time trying to decide on whether or not to include a sample logo, and then creating it because I didn't like what I had in Canva. So far, it's coming out well. Tomorrow (or maybe tonight), I will add the Javascript and media queries. I also need to finish designing the desktop piece, since I started with mobile first.
+
+**Link to work:** [Simple Responsive Nav](https://codepen.io/gtmaster2022/full/dyZOMWK)
 
 
 
