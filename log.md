@@ -82,6 +82,24 @@
 
 **Link to work:** [Color Flipper](https://codepen.io/gtmaster2022/full/YzEwBJq)
 
+### Day 12: February 3, 2022
+
+**Today's Progress**: Been doing code katas on CodeWars for Javascript. I think that I might start implementing this into my routine more to keep my skills sharp, especially as I add more skills back into my repertoire, including C# - a skill I haven't utilized in at least 5 years.
+
+<img width="50%" alt="image" src="https://user-images.githubusercontent.com/60929828/152659814-da836e25-9ca2-422a-95da-353120414f9b.png">
+
+### Day 13: February 4, 2022 
+
+**Today's Progress**: Another code kata, which are taking me at least an hour if not more. Yesterday when working on a kata to convert RGB to Hex, I forgot that the forEach iterator returns undefined, but I was trying to return an array. Today, when converting a string to camel case, I had 85% of the solution, but what I didn't realize is that map could also take in an index as a parameter. Once I realized that, I was able to get the other 15% immediately.
+
+**Thoughts**: Today it's frustrating how long these kata's take, but I know the more I do them, the stronger I will be with Javascript. I think my next programming language will be to reintroduce myself to C#, since I was really proficient with it in the past. It's also seeing how others achieve the same kata solutions with a *lot* less code.
+
+<img width="50%" alt="image" src="https://user-images.githubusercontent.com/60929828/152659825-41c34b93-5038-45be-9352-13a1c98f7ad0.png">
+
+
+
+
+
 
 
 
