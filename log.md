@@ -98,7 +98,7 @@
 
 ### Day 13: February 5, 2022 
 
-**Today's Progress**: Today., I decided to do a project from [FreeCodeCamp] (https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper) from scratch. It took me a while to get the transition of the hamburger menu just right, but so far, I'm happy with how it's coming out. I also spent some time trying to decide on whether or not to include a sample logo, and then creating it because I didn't like what I had in Canva. So far, it's coming out well. Tomorrow (or maybe tonight), I will add the Javascript and media queries. I also need to finish designing the desktop piece, since I started with mobile first.
+**Today's Progress**: Today., I decided to do a project from [FreeCodeCamp] (https://www.freecodecamp.org/news/javascript-projects-for-beginners/) from scratch. It took me a while to get the transition of the hamburger menu just right, but so far, I'm happy with how it's coming out. I also spent some time trying to decide on whether or not to include a sample logo, and then creating it because I didn't like what I had in Canva. So far, it's coming out well. Even the Javascript is working. The last thing I need to do is the media query, but currently it's not working I'll take a second look at my code tomorrow. 
 
 **Link to work:** [Simple Responsive Nav](https://codepen.io/gtmaster2022/full/dyZOMWK)
 
