@@ -102,6 +102,13 @@
 
 **Link to work:** [Simple Responsive Nav](https://codepen.io/gtmaster2022/full/dyZOMWK)
 
+### Day 14: February 7, 2022 
+
+**Today's Progress**:  
+
+**Link to work:** [Space Tourism Design System](https://codepen.io/gtmaster2022/full/yLPgvNm)
+
+
 
 
 
