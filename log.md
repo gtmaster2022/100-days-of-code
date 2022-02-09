@@ -106,7 +106,14 @@
 
 **Today's Progress**:  
 
-**Link to work:** [Space Tourism Design System](https://codepen.io/gtmaster2022/full/yLPgvNm)
+**Link to work:** [Space Tourism Design System Pt I](https://codepen.io/gtmaster2022/full/yLPgvNm)
+
+### Day 15: February 8, 2022 
+
+**Today's Progress**:  
+
+**Link to work:** [Space Tourism Design System Pt II](https://codepen.io/gtmaster2022/full/ZEaeKwW)
+**Link to work:** [Space Tourism Site]()
 
 
 
