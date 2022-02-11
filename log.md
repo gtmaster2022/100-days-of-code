@@ -113,8 +113,13 @@
 **Today's Progress**:  
 
 **Link to work:** [Space Tourism Design System Pt II](https://codepen.io/gtmaster2022/full/ZEaeKwW)
-**Link to work:** [Space Tourism Site]()
+**Link to work:** [Space Tourism Site]
 
+### Day 16: February 10, 2022 
+
+**Today's Progress**: I started using the design system above to create the home page for the space tourism site. It's a very useful tool, or worth learning, for larger scale projects that I hope to do as I progress in my coding skills.
+
+**Link to work:** [Space Tourism Site] https://codepen.io/gtmaster2022/pen/rNYwNQm
 
 
 
